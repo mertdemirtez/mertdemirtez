@@ -24,7 +24,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/mertdemirtez/mertdemirtez/raw/main/avatar2.JPG" align="right" style="width: 50%" />
+<img src="https://github.com/mertdemirtez/mertdemirtez/blob/main/avatar2.jpg" align="right" style="width: 50%" />
 </div>  
 
 
