@@ -88,7 +88,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertdemirtez" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunizz" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
