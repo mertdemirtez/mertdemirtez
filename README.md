@@ -13,10 +13,9 @@
 <table><tr><td valign="top" width="50%">
 
 - whoami┊</>
-  
-<br>Jr. Full Stack Developer 
-<br> Jr. Cyber Security Analyst 
-<br> Computer Engineering Student <br>
+-<br>Jr. Full Stack Developer 
+-<br> Jr. Cyber Security Analyst 
+-<br> Computer Engineering Student <br>
 
 - ☁️🍺✈️⚽🏈🎾🎮 <br>
 
