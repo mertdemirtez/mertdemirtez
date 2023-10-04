@@ -24,7 +24,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="![profile-pic (1)](https://github.com/mertdemirtez/mertdemirtez/assets/101717064/b766c7a4-3054-42e3-a63f-e1027b395d63)" align="right" style="width: 5%" />
+<img src="https://raw.githubusercontent.com/mertdemirtez/mertdemirtez/blob/main/profile-pic%20(1).png" align="right" style="width: 50%" />
 </div>  
 
 
