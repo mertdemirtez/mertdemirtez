@@ -1,4 +1,4 @@
-![profile-pic (1)](https://github.com/mertdemirtez/mertdemirtez/assets/101717064/59ab19b2-a7c2-4693-b431-5a01838c85ef)## Founder of NÖHÜ Cyber Security Student Club 💻 Mert Demir
+## Founder of NÖHÜ Cyber Security Student Club 💻 Mert Demir
 
 
 <a href="https://linkedin.com/in/mertdemirtez" target="_blank">
