@@ -14,8 +14,8 @@
 
 - whoami┊</>
 <br>Jr. Full Stack Developer 
-<br> Cyber Security Researcher 
-<br> Computer Engineering Student <br>
+<br> Cyber Security Researcher & Instructor
+<br> Computer Engineer Student <br>
 
 - ☁️🍺✈️⚽🏈🎾🎮 <br>
 
