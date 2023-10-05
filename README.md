@@ -1,4 +1,4 @@
-## Founder of NÖHÜ Cyber Security Student Club 💻 Mert Demir
+## Founder of NÖHÜ Cyber Security Community 💻 Mert Demir
 
 
 <a href="https://linkedin.com/in/mertdemirtez" target="_blank">
