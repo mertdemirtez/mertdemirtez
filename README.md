@@ -1,4 +1,4 @@
-## Founder at NÖHÜ Cyber Security Community 💻 Mert Demir
+## Founder at NOHU Cyber Security Community 💻 Mert Demir
 
 
 <a href="https://linkedin.com/in/mertdemirtez" target="_blank">
